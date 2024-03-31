@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Opus Technologies</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="black-background">
+        <div class="logo">
+            <img src="opus_logo_vertical.png" alt="Opus Technologies Logo" width="100px">
+        </div>
+        <div class="content">
+            <p>"We are revolutionizing how consumers interact with the home industry through technology."</p>
+        </div>   
+    </div>
+    <div class="main">
+        <div class="logo2">
+            <img src="opus_mission_white.png" alt="Opus Mission Target Logo White" width="100px">
+        </div>
+        <p class="content2">Our mission at Opus Technologies is to revolutionize the construction industry by 
+            leveraging advanced technology to empower consumers, streamline processes, and 
+            drive sustainable innovation. We are dedicated to creating accessible, user-friendly 
+            solutions that transform the way homes and buildings are designed, built, and managed, 
+            ultimately improving the lives of individuals and communities worldwide.
+        </p>
+    </div>
+    <div class="main">
+        <div class="logo2">
+            <img src="opus_team_white.png" alt="Opus Team Logo White" width="100px">
+        </div>
+        <p class="content2">Our team at Opus Technologies is a diverse and talented group of 
+            individuals dedicated to driving innovation in the tech industry.
+             Comprised of developers, software engineers, artists,
+              , legal experts, data scientists, construction managers architects, our team brings together a wealth of experience and expertise
+               from various disciplines.
+        </p>
+    </div>
+    <div class="main">
+        <div class="logo2">
+            <img src="opus_investment_white.png" alt="Opus Investment Logo White" width="100px">
+        </div>
+        <p class="content2">Opus Technologies will be seeking pre-seed investment to fuel our 
+            growth and expand our market reach. With a proven business model, innovative technology 
+            stack, and experienced team, we are well-positioned to capitalize on emerging opportunities 
+            in the technology sector.
+
+        </p>
+    </div>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Footer with Business Information</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<footer>
+  <div class="container">
+    <div class="business-info">
+      <h3>Opus Technologies Inc</h3>
+      <p>8 The Green</p>
+      <p>Delaware, US</p>
+      <p>Email: info@theopus.tech</p>
+      <p>Phone: +123 456 7890</p>
+    </div>
+    <div class="contact-section">
+      <h3>Contact Us</h3>
+      <form>
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Your Email" required>
+        <textarea placeholder="Your Message" required></textarea>
+        <button type="submit">Send</button>
+      </form>
+    </div>
+  </div>
+  <div class="footer-banner">
+    <p>&copy; 2024 Opus Technologies. All rights reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>
+
+</body>
+</html>
